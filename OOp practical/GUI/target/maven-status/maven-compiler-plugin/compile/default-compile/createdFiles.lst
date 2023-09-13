@@ -1,0 +1,7 @@
+com\mycompany\gui\CollectionClasses.class
+com\mycompany\gui\UpdateQuery.class
+com\mycompany\gui\MappingClass.class
+com\mycompany\gui\DeleteQuery.class
+com\mycompany\gui\SelectQuery.class
+com\mycompany\gui\InsertQuery.class
+com\mycompany\gui\StackClass.class

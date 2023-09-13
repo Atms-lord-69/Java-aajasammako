@@ -1,0 +1,26 @@
+Layout Management
+ 1. Flow Layout
+ 2. Grid Layout
+ 3. Border Layout
+
+Event Handeling
+    <u>Event Class</u>     <u>Methods</u>                                 <u>Listener Interface</u>
+    ActionEvent            actionPerformed(ActionEvent e)          ActionListener
+
+    keyEvent        keyPressed(keyEvent k)                  KeyListener
+                    keyReleased(keyEvent k)
+                    keyTyped(keyEvent k)
+
+    MouseEvent      mouseDragged(MouseEvent m)              MouseListener
+                    mouseMoved(MouseEvent m)
+
+
+Others:
+    ItemEvent
+    TextEvent
+    WindowEvent
+    FocusEvent
+    MouseWheelEvent
+    ComponentEvent
+    ContainerEvent
+    AdjustmentEvent
